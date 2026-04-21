@@ -3,7 +3,11 @@
 A complete, reproducible binary classification project for the **Breast Cancer Wisconsin (Diagnostic)** dataset.
 
 ## Dataset
-Download the Kaggle dataset and place the CSV in:
+Download from:
+https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+
+Place it inside:
+data/raw/data.csv
 
 `data/raw/`
 
